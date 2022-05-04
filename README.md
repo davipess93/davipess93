@@ -1,7 +1,4 @@
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=davipess93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![Davi Pessoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=davipess93&show_icons=true&theme=dark)
 
 <!--
 ### Hi there 👋
