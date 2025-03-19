@@ -1,6 +1,7 @@
 # Meu Curriculo / CV
 
 ## Sobre mim
+Sou um desenvolvedor web full stack que gosta de inovar em cada projeto, explorando novas funcionalidades e integrações de ferramentas para otimizar o desenvolvimento. Minha missão é criar aplicações eficientes, impactantes e de alta qualidade. Estou constantemente em busca de aprendizado e aprimoramento, garantindo que cada projeto não apenas atenda, mas supere as necessidades e expectativas de quem confia no meu trabalho.
 
 ## Carreira
 
