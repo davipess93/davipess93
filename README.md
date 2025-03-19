@@ -1,16 +1,15 @@
-# Meu Curriculo / CV
+# 💼 Meu Currículo / CV
 
-## Sobre mim
-Sou um desenvolvedor web full stack que gosta de inovar em cada projeto, explorando novas funcionalidades e integrações de ferramentas para otimizar o desenvolvimento. Minha missão é criar aplicações eficientes, impactantes e de alta qualidade. Estou constantemente em busca de aprendizado e aprimoramento, garantindo que cada projeto não apenas atenda, mas supere as necessidades e expectativas de quem confia no meu trabalho.
+## 🚀 Sobre mim  
+Sou um desenvolvedor web full stack que gosta de inovar em cada projeto, explorando novas funcionalidades e integrações de ferramentas para otimizar o desenvolvimento. Minha missão é criar aplicações eficientes, impactantes e de alta qualidade. Estou constantemente em busca de aprendizado e aprimoramento, garantindo que cada projeto não apenas atenda, mas supere as necessidades e expectativas de quem confia no meu trabalho.  
 
-## Carreira
+## 📌 Carreira  
+### 🏢 Servfaz  
+- **Desenvolvedor Web Full Stack** (Desde dezembro de 2022)  
+- **Analista de Suporte Técnico** (Julho de 2021 – Dezembro de 2022)  
 
-## Tecnologias
-- <img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="javascript" /> JavaScript
-- <img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="typescript" /> TypeScript
-- <img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="node_js" /> Node.js
-- <img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png" alt="nest_js" /> Nest.js
-- <img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="react" /> React
-- <img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="next_js" /> Next.js
-- <img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="tailwind_css"/> TailwindCSS
-- <img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png" alt="supabase" /> Supabase
+### 🏢 DATAmerica  
+- **Desenvolvedor Web Full Stack** (Junho de 2023 – Outubro de 2023)  
+
+## 🛠️ Tecnologias  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
