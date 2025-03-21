@@ -4,6 +4,7 @@
 Sou um desenvolvedor web full stack que gosta de inovar em cada projeto, explorando novas funcionalidades e integrações de ferramentas para otimizar o desenvolvimento. Minha missão é criar aplicações eficientes, impactantes e de alta qualidade. Estou constantemente em busca de aprendizado e aprimoramento, garantindo que cada projeto não apenas atenda, mas supere as necessidades e expectativas de quem confia no meu trabalho.
 
 ## Carreira
+
 ### Servfaz
 - **Desenvolvedor Web Full Stack** / Dezembro de 2022
 - **Analista de Suporte Técnico** / Julho de 2021 – Dezembro de 2022
