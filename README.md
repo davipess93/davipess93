@@ -1,7 +1,9 @@
 # 💼 Meu Currículo / CV
 
 ## Sobre mim  
-Sou um desenvolvedor web full stack que gosta de inovar em cada projeto, explorando novas funcionalidades e integrações de ferramentas para otimizar o desenvolvimento. Minha missão é criar aplicações eficientes, impactantes e de alta qualidade. Estou constantemente em busca de aprendizado e aprimoramento, garantindo que cada projeto não apenas atenda, mas supere as necessidades e expectativas de quem confia no meu trabalho.
+Sou um desenvolvedor web full stack que busca inovação em cada projeto, explorando novas tecnologias e integrações para tornar o desenvolvimento mais ágil e eficiente. Minha missão é criar aplicações robustas, impactantes e de alta qualidade, sempre focadas em oferecer a melhor experiência para quem as utiliza. Estou em constante evolução, aprimorando minhas habilidades e expandindo meu conhecimento para entregar soluções que não apenas atendem, mas superam as expectativas.
+
+
 
 ## Carreira
 - Servfaz
