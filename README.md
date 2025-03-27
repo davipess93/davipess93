@@ -1,7 +1,7 @@
 # 💼 Meu Currículo / CV
 
 ## Sobre mim  
-Busco unir conhecimento técnico e habilidades interpessoais para criar soluções inovadoras e eficientes. Minha experiência inicial com suporte ao usuário me permitiu compreender a importância do relacionamento entre tecnologia e negócios, facilitando a entrega de soluções intuitivas e eficazes. No desenvolvimento, exploro novas tecnologias e integrações para otimizar processos e garantir aplicações robustas, escaláveis e de alto desempenho. Estou em constante evolução, aprimorando minhas habilidades para entregar produtos que superem expectativas e impulsionem resultados.
+Busco unir conhecimento técnico e habilidades interpessoais para criar aplicações inovadoras e eficientes. Minha experiência inicial com suporte ao usuário me permitiu compreender a importância do relacionamento entre tecnologia e negócios, facilitando a entrega de aplicaÇções intuitivas e eficazes. No desenvolvimento, exploro novas tecnologias e integrações para otimizar processos e garantir aplicações robustas, escaláveis e de alto desempenho. Estou em constante evolução, aprimorando minhas habilidades para entregar produtos que superem expectativas e impulsionem resultados.
 
 
 
