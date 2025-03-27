@@ -7,7 +7,7 @@ Busco unir conhecimento técnico e habilidades interpessoais para criar aplicaç
 
 ## Carreira
 - Dreamshpaer
-  - **Tech Lead**/ 2025  
+  - **Tech Lead** / 2025  
 - Servfaz
   - **Desenvolvedor Web Full Stack** / Dezembro de 2022
   - **Analista de Suporte Técnico** / Julho de 2021 – Dezembro de 2022
