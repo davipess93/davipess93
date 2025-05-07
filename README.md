@@ -10,6 +10,7 @@ Busco unir conhecimento técnico e habilidades interpessoais para criar aplicaç
   - **Desenvolvedor Web Full Stack** / Dezembro de 2022
   - **Analista de Suporte Técnico** / Julho de 2021 – Dezembro de 2022
 - DATAmerica
+  - **Desenvolvedor Web Full Stack** / Abril de 2025
   - **Desenvolvedor Web Full Stack** / Junho de 2023 – Outubro de 2023
 
 ## Tecnologias
